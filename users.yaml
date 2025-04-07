@@ -3,8 +3,8 @@
 
 users:
   - name: cloud  # System user - do not remove
-  - name: jake
-  - name: amaan
-  - name: removi-kyle
+  - name: A1
+  - name: A2
+  - name: A3
   # Add new users below this line
   # - name: newuser
