@@ -1,0 +1,10 @@
+# VPN Users Configuration
+# Add or remove users from this list to grant or revoke VPN access
+
+users:
+  - name: cloud  # System user - do not remove
+  - name: jake
+  - name: kyle
+  - name: amaan
+  # Add new users below this line
+  # - name: newuser
