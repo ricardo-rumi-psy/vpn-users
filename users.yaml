@@ -4,7 +4,6 @@
 users:
   - name: cloud  # System user - do not remove
   - name: jake
-  - name: kyle
   - name: amaan
   - name: removi-kyle
   # Add new users below this line
