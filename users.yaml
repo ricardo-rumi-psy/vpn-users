@@ -3,7 +3,6 @@
 
 users:
   - name: cloud  # System user - do not remove
-  - name: A1
   - name: A2
   - name: A3
   - name: A4
